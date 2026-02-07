@@ -39,10 +39,10 @@ Im Mittelpunkt stehen klare Abläufe, stabile Daten und ein ruhiger Arbeitsfluss
 ## Nutzung und Lizenz
 
 LagerPilot kann 30 Tage kostenlos genutzt werden.
-In dieser Phase ist Support enthalten.
+In dieser Zeit ist Support enthalten.
 
 Nach Ablauf der 30 Tage ist die Nutzung nur noch mit Lizenz möglich.
-Es gibt zwei Laufzeiten:
+Es stehen zwei Lizenzlaufzeiten zur Verfügung:
 
 ### Lizenz 6 Monate
 
@@ -54,14 +54,28 @@ Es gibt zwei Laufzeiten:
 - Nutzung für 12 Monate ab Aktivierung
 - Support während der Laufzeit enthalten
 
+### Fair-Use und Vertrauen
+
+LagerPilot setzt bewusst auf Fairness und Eigenverantwortung.
+Nach Ablauf einer Lizenz wechselt die Software in einen
+Nur-Lesen-Modus.
+
+Bestehende Daten bleiben sichtbar,
+es können jedoch keine Änderungen mehr vorgenommen werden.
+
+Dieses Modell baut auf die Ehrlichkeit der Nutzer
+und auf eine transparente Zusammenarbeit.
+
 ### Erinnerung vor Ablauf
 
-LagerPilot erinnert 30 Tage vor Ablauf an die Verlängerung.
-Die Erinnerung ist sichtbar im Programm.
+LagerPilot erinnert 30 Tage vor Ablauf einer Lizenz
+direkt im Programm an die bevorstehende Verlängerung.
 
-Eine Benachrichtigung an richard_IT per E Mail erfolgt nur,
-wenn der Nutzer dies ausdrücklich aktiviert und bestätigt.
-Dabei werden nur die dafür notwendigen Informationen übertragen.
+Eine Benachrichtigung per E Mail an richard_IT
+erfolgt nicht automatisch.
+
+Der Nutzer kann diese Benachrichtigung
+freiwillig und ausdrücklich selbst auslösen.
 
 ---
 
@@ -80,6 +94,12 @@ Lizenzfunktionen arbeiten standardmäßig lokal.
 Wenn der Nutzer eine E Mail Benachrichtigung aktiviert,
 werden nur notwendige Daten übertragen.
 Ohne Aktivierung findet keine Übertragung statt.
+
+Lizenzinformationen werden lokal gespeichert.
+Es findet keine automatische Übertragung statt.
+
+Eine E Mail an richard_IT wird nur dann versendet,
+wenn der Nutzer diese bewusst auslöst.
 
 ---
 
