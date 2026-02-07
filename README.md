@@ -10,6 +10,8 @@ Ohne Cloud-Zwang, ohne Tracking, ohne unnötige Komplexität.
 Software und Unterstützung folgen hier einem einfachen Gedanken:  
 **Ordnung entlastet.**
 
+---
+
 ## Wofür richard_IT steht
 
 Viele IT-Lösungen erzeugen Abhängigkeit und unnötige Komplexität.  
@@ -17,6 +19,8 @@ richard_IT verfolgt einen anderen Ansatz.
 
 Im Mittelpunkt stehen Verständlichkeit, lokale Kontrolle und stabile Abläufe.  
 Technik soll unterstützen, nicht dominieren.
+
+---
 
 ## LagerPilot
 
@@ -30,12 +34,16 @@ wenn das Internet keine Rolle spielt.
 
 Im Mittelpunkt stehen klare Abläufe, stabile Daten und ein ruhiger Arbeitsfluss.
 
+---
+
 ## Nutzung und Lizenz
 
 LagerPilot kann 30 Tage kostenlos mit Support genutzt werden.
 In dieser Zeit steht der volle Funktionsumfang zur Verfügung.
 
 Nach Ablauf der 30 Tage gibt es folgende Möglichkeiten:
+
+---
 
 ### Nutzung ohne Support
 
@@ -45,6 +53,8 @@ Dazu ist ein einmaliger Kauf der Software erforderlich.
 - unbegrenzte Nutzung
 - keine laufenden Kosten
 - kein Support, keine Updates
+
+---
 
 ### Nutzung mit Support
 
@@ -59,6 +69,8 @@ In allen Fällen bleibt die Software lokal nutzbar.
 Es gibt keine automatische Verbindung nach außen
 und keinen versteckten Zugriff.
 
+---
+
 ## Datenschutz und Remote-Zugriff
 
 Datenschutz ist für richard_IT kein Zusatz, sondern Grundhaltung.
@@ -69,6 +81,8 @@ Datenschutz ist für richard_IT kein Zusatz, sondern Grundhaltung.
 - keine Weitergabe von Daten
 
 Es werden nur die Daten verarbeitet, die für die Nutzung der Software notwendig sind.
+
+---
 
 ### Remote-Zugriff
 
@@ -82,6 +96,8 @@ Er erfolgt nur:
 
 Es gibt keinen automatischen Zugriff
 und keine Hintergrunddienste.
+
+---
 
 ## Impressum
 
@@ -106,3 +122,4 @@ unterliegen dem Urheberrecht.
 Eine Vervielfältigung oder Weitergabe
 ist nur mit ausdrücklicher Zustimmung gestattet.
 
+---
