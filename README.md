@@ -57,8 +57,7 @@ Es stehen zwei Lizenzlaufzeiten zur Verfügung:
 ### Fair-Use und Vertrauen
 
 LagerPilot setzt bewusst auf Fairness und Eigenverantwortung.
-Nach Ablauf einer Lizenz wechselt die Software in einen
-Nur-Lesen-Modus.
+Nach Ablauf einer Lizenz wechselt die Software in einen Nur-Lesen-Modus.
 
 Bestehende Daten bleiben sichtbar,
 es können jedoch keine Änderungen mehr vorgenommen werden.
@@ -68,14 +67,17 @@ und auf eine transparente Zusammenarbeit.
 
 ### Erinnerung vor Ablauf
 
-LagerPilot erinnert 30 Tage vor Ablauf einer Lizenz
-direkt im Programm an die bevorstehende Verlängerung.
+In der Testphase erinnert LagerPilot 4 Werktage vor Ablauf.
+In einer lizenzierten Version erinnert LagerPilot 30 Kalendertage vor Ablauf.
 
-Eine Benachrichtigung per E Mail an richard_IT
-erfolgt nicht automatisch.
+Die Erinnerung erfolgt als Status-Mitteilung im Programm.
 
-Der Nutzer kann diese Benachrichtigung
-freiwillig und ausdrücklich selbst auslösen.
+Zusätzlich erscheint ein Hinweis beim Start und beim Beenden,
+mit folgenden Möglichkeiten:
+
+- Lizenz auffrischen
+- Lizenz eingeben
+- E Mail an richard_IT senden, nur bewusst durch den Nutzer ausgelöst
 
 ---
 
