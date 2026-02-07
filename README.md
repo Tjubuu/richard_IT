@@ -1,2 +1,2 @@
-# lagerpilot-site
-Offizielle Website für LagerPilot. Lokal, ruhig, ohne Tracking.
+# richard_IT
+Offizielle Website für richard_IT. Lokal, ruhig, ohne Tracking.
