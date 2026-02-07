@@ -58,3 +58,51 @@ Hierfür ist zusätzlich zum einmaligen Kauf eine Jahreslizenz erforderlich.
 In allen Fällen bleibt die Software lokal nutzbar.
 Es gibt keine automatische Verbindung nach außen
 und keinen versteckten Zugriff.
+
+## Datenschutz und Remote-Zugriff
+
+Datenschutz ist für richard_IT kein Zusatz, sondern Grundhaltung.
+
+- keine Cookies
+- kein Tracking
+- keine Analyse- oder Werbedienste
+- keine Weitergabe von Daten
+
+Es werden nur die Daten verarbeitet, die für die Nutzung der Software notwendig sind.
+
+### Remote-Zugriff
+
+Remote-Zugriff dient ausschließlich der Hilfeleistung.
+Er erfolgt nur:
+
+- auf ausdrückliche Einladung
+- zeitlich begrenzt
+- transparent
+- ohne dauerhafte Verbindungen
+
+Es gibt keinen automatischen Zugriff
+und keine Hintergrunddienste.
+
+## Impressum
+
+richard_IT  
+Thorsten Richarz  
+Lochnerstr. 1  
+40878 Ratingen  
+Deutschland  
+
+E-Mail:  
+richard_it@eclipso.de
+
+---
+
+## Urheberrecht
+
+© Thorsten Richarz
+
+Alle Inhalte dieser Website sowie die Software LagerPilot
+unterliegen dem Urheberrecht.
+
+Eine Vervielfältigung oder Weitergabe
+ist nur mit ausdrücklicher Zustimmung gestattet.
+
