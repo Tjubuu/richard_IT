@@ -29,3 +29,32 @@ LagerPilot läuft lokal, speichert lokal und bleibt auch dann nutzbar,
 wenn das Internet keine Rolle spielt.
 
 Im Mittelpunkt stehen klare Abläufe, stabile Daten und ein ruhiger Arbeitsfluss.
+
+## Nutzung und Lizenz
+
+LagerPilot kann 30 Tage kostenlos mit Support genutzt werden.
+In dieser Zeit steht der volle Funktionsumfang zur Verfügung.
+
+Nach Ablauf der 30 Tage gibt es folgende Möglichkeiten:
+
+### Nutzung ohne Support
+
+Die Software kann weiterhin genutzt werden.
+Dazu ist ein einmaliger Kauf der Software erforderlich.
+
+- unbegrenzte Nutzung
+- keine laufenden Kosten
+- kein Support, keine Updates
+
+### Nutzung mit Support
+
+Alternativ kann LagerPilot mit Support genutzt werden.
+Hierfür ist zusätzlich zum einmaligen Kauf eine Jahreslizenz erforderlich.
+
+- Unterstützung bei Fragen und Problemen
+- Updates und Weiterentwicklung
+- begleitende Hilfe bei Bedarf
+
+In allen Fällen bleibt die Software lokal nutzbar.
+Es gibt keine automatische Verbindung nach außen
+und keinen versteckten Zugriff.
