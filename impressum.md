@@ -1,6 +1,7 @@
 # Impressum
 
-[Zurück zur Startseite](index.md)
+[Startseite](index.md) , [Impressum](impressum.md) , [Datenschutz](datenschutz.md)
+
 
 richard_IT  
 Thorsten Richarz  
