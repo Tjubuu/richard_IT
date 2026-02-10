@@ -1,6 +1,6 @@
 # Datenschutz
 
-[Zurück zur Startseite](index.md)
+[Startseite](index.md) , [Impressum](impressum.md) , [Datenschutz](datenschutz.md)
 
 Datenschutz ist für richard_IT kein Zusatz, sondern Grundhaltung.
 
