@@ -1,6 +1,8 @@
 
 ![richard_IT Logo](assets/img/logo.png)
 
+---
+
 # richard_IT
 
 Ordnung in Software. Ruhe im System.
