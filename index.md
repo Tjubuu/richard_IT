@@ -55,3 +55,12 @@ neu ordnen möchten, schreiben Sie mir.
 
 [Kontakt aufnehmen](kontakt.md)
 
+---
+
+© richard_IT
+
+[Beratung](beratung.md) · 
+[Projekte](projekte.md) · 
+[Kontakt](kontakt.md) · 
+[Datenschutz](datenschutz.md) · 
+[Impressum](impressum.md)
