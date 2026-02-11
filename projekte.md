@@ -1,5 +1,10 @@
 # Projekte
+
+---
+
 [← Zur Startseite](index.md)
+
+---
 
 Hier stehen Werkzeuge und Projekte, die aus Praxis entstanden sind.
 
