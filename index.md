@@ -5,7 +5,7 @@
 
 Ordnung in Software. Ruhe im System.
 
-[Impressum](impressum.md) , [Datenschutz](datenschutz.md)
+[Beratung](beratung.md) · [Kontakt](kontakt.md) · [Datenschutz](datenschutz.md) · [Impressum](impressum.md)
 
 ---
 
