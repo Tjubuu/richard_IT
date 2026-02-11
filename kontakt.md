@@ -1,5 +1,10 @@
 # Kontakt
+
+---
+
 [← Zur Startseite](index.md)
+
+---
 
 Der erste Schritt ist ein Gespräch.
 
