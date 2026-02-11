@@ -4,8 +4,6 @@
 
 [Startseite](index.md) , [Impressum](impressum.md) 
 
----
-
 Datenschutz ist für richard_IT kein Zusatz, sondern Grundhaltung.
 
 - keine Cookies  
