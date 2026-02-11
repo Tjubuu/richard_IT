@@ -4,8 +4,6 @@
 
 [← Zur Startseite](index.md)
 
----
-
 Der erste Schritt ist ein Gespräch.
 
 Keine automatische Terminbuchung.
