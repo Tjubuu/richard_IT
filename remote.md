@@ -18,4 +18,4 @@ Er erfolgt nur auf Einladung, zeitlich begrenzt, und transparent.
 
 ## Tools
 In der Regel AnyDesk, wenn es passt.
-Alternativen sind moeglich, wenn sie fuer dich einfacher sind.
+Alternativen sind möglich, wenn sie für dich einfacher sind.
