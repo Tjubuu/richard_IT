@@ -1,4 +1,5 @@
 # Digitale Aufräum- und Strukturberatung
+[← Zur Startseite](index.md)
 
 Ordnung ist kein Selbstzweck.  
 Ordnung entlastet.
