@@ -1,6 +1,9 @@
 # Impressum
 
+---
+
 [Startseite](index.md) , [Datenschutz](datenschutz.md)
+
 ---
 
 richard_IT  
