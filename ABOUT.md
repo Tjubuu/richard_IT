@@ -2,14 +2,18 @@
 
 Mein Name ist Thorsten Richarz.
 
-Ich arbeite seit vielen Jahren mit IT-Systemen,
-Software und digitalen Arbeitsabläufen.
-Dabei habe ich gelernt:
-Nicht jede technische Möglichkeit ist sinnvoll.
+Mein beruflicher Weg begann im Handwerk und 
+führte später über kaufmännische Arbeit zu dem, 
+was ich heute mit richard_IT anbiete. Diese 
+Erfahrung prägt meine Arbeitsweise bis heute: 
+praktisch denken, sauber arbeiten, strukturiert 
+vorgehen und Verantwortung übernehmen.
 
-Mich interessiert weniger,
-was theoretisch machbar ist,
-sondern was im Alltag wirklich trägt.
+Ich unterstütze Menschen dabei, digitale Ordnung 
+zu schaffen, technische Probleme verständlich zu 
+lösen und mit IT wieder handlungsfähig zu werden. 
+Mir geht es nicht um große Worte, sondern um Lösungen, 
+die wirklich helfen.
 
 ---
 
